@@ -1,0 +1,221 @@
+#var_2
+def rabbit_pairs(n, m):
+    # Создаем массив для хранения количества пар кроликов в каждом месяце
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    
+    # Инициализируем массив с нулями
+    dp = [0] * (n + 1)
+    
+    # В первом месяце одна пара кроликов
+    dp[1] = 1
+    
+    # Заполняем массив
+    for month in range(2, n + 1):
+        # Пары кроликов в текущем месяце равны парам в предыдущем месяце
+        # плюс пары, которые были созданы m месяцев назад (если они еще живы)
+        dp[month] = dp[month - 1]
+        
+        if month - m >= 1:
+            dp[month] += dp[month - m]
+    
+    return dp[n]
+
+n = 6  # Общее количество месяцев
+m = 3  # Количество месяцев жизни кроликов
+result = rabbit_pairs(n, m)
+print(f"Количество пар кроликов через {n} месяцев: {result}")
+
+#ex 1
+import random
+
+def guessing_game():
+    """Игра-угадайка: пользователь пытается угадать случайное число от 0 до 100."""
+    target = random.randint(0, 100)
+    while True:
+        try:
+            guess = int(input("Угадайте число от 0 до 100: "))
+            if guess < target:
+                print("Слишком маленькое")
+            elif guess > target:
+                print("Слишком большое")
+            else:
+                print("То, что нужно! Вы угадали.")
+                break
+        except ValueError:
+            print("Пожалуйста, введите целое число.")
+
+guessing_game()
+
+#ex 2 с допом
+from typing import List, Tuple, Any
+
+def mysum(numbers: List[int], start: int = 0) -> int:
+    #Возвращает сумму чисел в списке с возможностью указания начального значения.
+    total = start
+    for num in numbers:
+        total += num
+    return total
+
+def average(numbers: List[int]) -> float:
+    #Возвращает среднее значение списка чисел.
+    return sum(numbers) / len(numbers) if numbers else 0
+
+def word_length_stats(words: List[str]) -> Tuple[int, int, float]:
+    #Возвращает длину самого короткого, самого длинного слова и среднюю длину слов.
+    if not words:
+        return (0, 0, 0.0)
+    lengths = [len(word) for word in words]
+    return min(lengths), max(lengths), sum(lengths) / len(lengths)
+
+def sum_integers(objects: List[Any]) -> int:
+    #Суммирует объекты, которые являются целыми числами или могут быть преобразованы в int.
+    total = 0
+    for obj in objects:
+        try:
+            total += int(obj)
+        except (ValueError, TypeError):
+            pass
+    return total
+
+#Примеры
+print(mysum([1, 2, 3], 4))  # 10
+print(average([1, 2, 3, 4, 5]))  # 3.0
+print(word_length_stats(["cat", "elephant", "tiger"]))  # (3, 8, 5.3333)
+print(sum_integers([1, "2", 3.5, "abc", 4]))  # 10
+
+#ex 3
+def run_timing():
+    times = []
+    while True:
+        user_input = input("Введите время пробега 10 км: ")
+        if not user_input:
+            break
+        try:
+            times.append(float(user_input))
+        except ValueError:
+            print("Пожалуйста, введите число.")
+    if times:
+        print(f"Средний показатель {sum(times) / len(times):.1f}, более {len(times)} пробежек")
+    else:
+        print("Нет данных о пробежках.")
+run_timing()
+
+#ex 4
+def hex_output():
+    decnum = 0
+    hexnum = input('Введите шестнадцатеричное число для преобразования: ')
+    #Переводим каждую цифру в шестнадцатеричном числе
+    for power, digit in enumerate(reversed(hexnum)):
+        decnum += int(digit, 16) * (16 ** power)
+    print(f'Десятичное представление: {decnum}')
+hex_output()
+
+#ex 5
+def pig_latin(word):
+    if word[0] in 'aeiou': 
+        return f'{word} way'
+    return f'{word[1:]}{word[0]}ay'  
+print(pig_latin('python'))
+
+#ex 6
+def pl_sentence(sentence):
+    #if строка пустая, возвращаем пустую строку
+    if not sentence:
+        return ""
+
+    output = []
+    
+    for word in sentence.split():
+        if word[0] in 'aeiou':  #Проверяем, начинается ли слово с гласной
+            output.append(f'{word}way')  #Добавляем 'way'
+        else:
+            #Перемещаем первую букву в конец и добавляем 'ay'
+            output.append(f'{word[1:]}{word[0]}ay')
+    
+    # Объединяем все слова в одну строку и возвращаем
+    return ' '.join(output)
+
+# Пример использования
+print(pl_sentence('this is a test translation')) 
+
+#ex 7
+def ubbi_dubbi(word):
+    output = []  
+    vowels = 'aeiouAEIOU'  
+
+    for letter in word:  # Итерация по каждой букве в слове
+        if letter in vowels:  # Если буква гласная
+            output.append(f'ub{letter}')  
+        else:
+            output.append(letter)  
+            
+    return ''.join(output)  
+
+# Пример использования
+if __name__ == "__main__":
+    test_words = ['python', 'apple', 'mouse', 'summer', 'Programming']
+
+    for word in test_words:
+        print(f"{word} -> {ubbi_dubbi(word)}")
+
+#ex 8
+def strsort(a_string):
+    return ''.join(sorted(a_string))
+    
+# Пример использования
+print(strsort('werdfa'))
+
+#ex 9
+def firstlast(sequence):
+    if not sequence:
+        return sequence 
+    
+    first = sequence[0]
+    last = sequence[-1]
+    
+    #Формируем новый тип последовательности
+    if isinstance(sequence, str):  #Если это строка, возвращаем строку
+        return first + last
+    elif isinstance(sequence, list):  
+        return [first, last]
+    elif isinstance(sequence, tuple):  
+        return (first, last)
+    else:
+        raise ValueError("Unsupported sequence type")  # Обработка неподдерживаемого типа
+
+# Примеры использования
+print(firstlast('defj')) 
+print(firstlast([6, 7, 8])) 
+
+#ex 10
+def mysum(*items):
+    if not items:
+        return 0  
+    output = 0
+    str_output = ''  
+    for item in items:
+        if isinstance(item, (int, float)):  #Если элемент число
+            output += item
+        elif isinstance(item, str):  #Если элемент строка
+            str_output += item
+        elif isinstance(item, list):  #Если элемент список
+            output += sum(item)
+        else:
+            raise TypeError(f"Unsupported type: {type(item)}")  #Поддерживаем только числа, строки и списки
+    
+    return str_output + str(output)
+
+#Примеры использования функции
+print(mysum(10, 20, 30))  
+print(mysum('a', 'b', 'c', 'd'))  
+print(mysum([10, 20, 30], [40, 50, 60], [70, 80]))  
+print(mysum(1, [2, 3], '4', 5))  
+
+#Пример с неправильным вводом
+try:
+    print(mysum(10, '20', {30: 1}))  # Это вызовет ошибку
+except TypeError as e:
+    print(e)  # Вывод ошибки
