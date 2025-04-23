@@ -1,4 +1,6 @@
-ex 1
+#ex 1
+
+from Bio import SeqIO
 
 class GenBankProcessor:
     def __init__(self, input_path, output_path):
