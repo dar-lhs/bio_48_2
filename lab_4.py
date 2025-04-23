@@ -1,6 +1,7 @@
-#ex 1
+# ex 1
 
 from Bio import SeqIO
+
 
 class GenBankProcessor:
     def __init__(self, input_path, output_path):
@@ -29,6 +30,7 @@ class GenBankProcessor:
         with open(self.output_path, "w") as out_handle:
             SeqIO.write(self.records, out_handle, "genbank")
         print(f"Сохранено в файл: {self.output_path}")
+
 
 # Использование:
 processor = GenBankProcessor("sequence.gb", "combined_file.gbk")
