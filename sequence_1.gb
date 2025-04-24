@@ -1,0 +1,745 @@
+LOCUS       OY748523                 829 bp    DNA     linear   INV 08-JUL-2024
+DEFINITION  Apis mellifera
+            COI-COII_intergenic_spacer_apis_mitochondrial_haplotype_A6a.
+ACCESSION   OY748523
+VERSION     OY748523.1
+DBLINK      BioProject: PRJEB67526
+KEYWORDS    Apis mellifera; Mitochondrion haplotype.
+SOURCE      Apis mellifera (honey bee)
+  ORGANISM  Apis mellifera
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Hymenoptera; Apocrita;
+            Aculeata; Apoidea; Anthophila; Apidae; Apis.
+REFERENCE   1
+  AUTHORS   Ribani,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2023) Anisa, Animal Genetics and Genomics, Viale
+            Fanin 48, 40127, Italy
+FEATURES             Location/Qualifiers
+     source          1..829
+                     /organism="Apis mellifera"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7460"
+                     /geo_loc_name="Italy"
+     misc_feature    1..513
+                     /note="COI-COII intergenic spacer' 514..829"
+ORIGIN      
+        1 ggcagaataa gtgcattgaa cttaagattc aaatataaag tatttttaaa cttttattaa
+       61 aattaataaa ttaatataaa ataaaacaaa atataacaaa ataaatttat taaaatttaa
+      121 tttattaaaa ttccccactt aattcatatt aatttaaaaa taaattaata acaattttaa
+      181 taaaataaat aattaatttt atttttatat tgaattttaa attcaatctt aaagatttaa
+      241 tctttttatt aaaattaata aattaatata aaataaaaca aaatataaca gaatatattt
+      301 attaaaattt aatttattaa aatttccaca tgattcattt taatttaaga ataaattaat
+      361 aacaatttta ataaaataaa taattaattt tatttttata ttgaatttta aattcaatct
+      421 taaagattta atctttttat taaaattaat aaattaatat aaaataaaac aaaatataac
+      481 agaatatatt tattaaaatt taatttatta aaatttccac atgattcata tttatatttc
+      541 aagaatcaaa ttcatattat gctgataatt taatttcatt tcataatata gttataataa
+      601 tcattattat aatttcaaca ttaactgtat atattatttt agattaattt ataaataaat
+      661 tttcaaattt atttttatta aaaaatcata atattgaaat tatttgaaca gttattccaa
+      721 ttattattct attaattatt tgttttccat cattaaaaat tttatattta attgatgaaa
+      781 ttgtaaatcc ttttttttca attaaatcaa ttggtcatca atgatattg
+//
+
+LOCUS       OY748522                 829 bp    DNA     linear   INV 08-JUL-2024
+DEFINITION  Apis mellifera
+            COI-COII_intergenic_spacer_apis_mitochondrial_haplotype_A2v.
+ACCESSION   OY748522
+VERSION     OY748522.1
+DBLINK      BioProject: PRJEB67526
+KEYWORDS    Apis mellifera; Mitochondrion haplotype.
+SOURCE      Apis mellifera (honey bee)
+  ORGANISM  Apis mellifera
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Hymenoptera; Apocrita;
+            Aculeata; Apoidea; Anthophila; Apidae; Apis.
+REFERENCE   1
+  AUTHORS   Ribani,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2023) Anisa, Animal Genetics and Genomics, Viale
+            Fanin 48, 40127, Italy
+FEATURES             Location/Qualifiers
+     source          1..829
+                     /organism="Apis mellifera"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7460"
+                     /geo_loc_name="Italy"
+     misc_feature    1..513
+                     /note="COI-COII intergenic spacer' 514..829"
+ORIGIN      
+        1 ggcagaataa gtgcattgaa cttaagattc aaatataaag tatttttaaa cttttattaa
+       61 aattaataaa ttaatataaa ataaaacaaa atataacaaa ataaatttat taaaatttaa
+      121 tttattaaaa ttccccactt aattcatatt aatttaaaaa taaattaata acaattttaa
+      181 taaaataaat aattaatttt atttttatat tgaattttta attcaatctt aaagatttaa
+      241 tctttttatt aaaattaata aattaatata aaataaaaca aaatataaca gaatatattt
+      301 attaaaattt aatttattaa aatttccaca tgattcattt taatttaaga ataaattaat
+      361 aacaatttta ataaaataaa taattaattt tatttttata ttgaattttt aattcaatct
+      421 taaagattta atctttttat taaaattaat aaattaatat aaaataaaac aaaatataac
+      481 agaatatatt tattaaaatt taatttatta aaatttccac atgattcata tttatatttc
+      541 aagaatcaaa ttcatattat gctgataatt taatttcatt tcataatata gttataataa
+      601 tcattattat aatttcaaca ttaactgtat atattatttt agattaattt ataaataaat
+      661 tttcaaattt atttttatta aaaaatcata atattgaaat tatttgaaca gttattccaa
+      721 ttattattct attaattatt tgttttccat cattaaaaat tttatattta attgatgaaa
+      781 ttgtaaatcc ttttttttca attaaatcaa ttggtcatca atgatattg
+//
+
+LOCUS       NM_001011601            1830 bp    mRNA    linear   INV 04-DEC-2024
+DEFINITION  Apis mellifera major royal jelly protein 3 (Mrjp3), mRNA.
+ACCESSION   NM_001011601 XM_391893
+VERSION     NM_001011601.1
+KEYWORDS    RefSeq.
+SOURCE      Apis mellifera (honey bee)
+  ORGANISM  Apis mellifera
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Hymenoptera; Apocrita;
+            Aculeata; Apoidea; Anthophila; Apidae; Apis.
+REFERENCE   1  (bases 1 to 1830)
+  AUTHORS   Dobritzsch,D., Aumer,D., Fuszard,M., Erler,S. and Buttstedt,A.
+  TITLE     The rise and fall of major royal jelly proteins during a honeybee
+            (Apis mellifera) workers' life
+  JOURNAL   Ecol Evol 9 (15), 8771-8782 (2019)
+   PUBMED   31410279
+  REMARK    GeneRIF: Fifth most abundant protein in the hypopharyngeal gland of
+            8-days old nurse honey bees (based on quantitative mass
+            spectrometry).
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1830)
+  AUTHORS   Fan,P., Han,B., Feng,M., Fang,Y., Zhang,L., Hu,H., Hao,Y., Qi,Y.,
+            Zhang,X. and Li,J.
+  TITLE     Functional and Proteomic Investigations Reveal Major Royal Jelly
+            Protein 1 Associated with Anti-hypertension Activity in Mouse
+            Vascular Smooth Muscle Cells
+  JOURNAL   Sci Rep 6, 30230 (2016)
+   PUBMED   27444336
+  REMARK    GeneRIF: Among 675 different proteins after MRJP1 expression, 646
+            were down-regulated and significantly enriched in pathways
+            implicated in VSMC contraction and migration, which suggest MRJP1
+            lowers VSMC contraction and migration by inhibiting muscle filament
+            movement. This is the first report integrating MRJP1 into VSMC,
+            revealing the function and mechanism correlated with
+            anti-hypertensive activity.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 1830)
+  AUTHORS   Parpinelli,R.S., Ruvolo-Takasusuki,M.C. and Toledo,V.A.
+  TITLE     MRJP microsatellite markers in Africanized Apis mellifera colonies
+            selected on the basis of royal jelly production
+  JOURNAL   Genet Mol Res 13 (3), 6724-6733 (2014)
+   PUBMED   25177952
+  REMARK    GeneRIF: Studies evaluated the genetic variability of major royal
+            jelly proteins (MRJPs) mrjp3, mrjp5, and mrjp8 and associated
+            allele maintenance during the process of selective reproduction.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 1830)
+  AUTHORS   Elsik,C.G., Worley,K.C., Bennett,A.K., Beye,M., Camara,F.,
+            Childers,C.P., de Graaf,D.C., Debyser,G., Deng,J., Devreese,B.,
+            Elhaik,E., Evans,J.D., Foster,L.J., Graur,D., Guigo,R., Hoff,K.J.,
+            Holder,M.E., Hudson,M.E., Hunt,G.J., Jiang,H., Joshi,V.,
+            Khetani,R.S., Kosarev,P., Kovar,C.L., Ma,J., Maleszka,R.,
+            Moritz,R.F., Munoz-Torres,M.C., Murphy,T.D., Muzny,D.M.,
+            Newsham,I.F., Reese,J.T., Robertson,H.M., Robinson,G.E.,
+            Rueppell,O., Solovyev,V., Stanke,M., Stolle,E., Tsuruda,J.M.,
+            Vaerenbergh,M.V., Waterhouse,R.M., Weaver,D.B., Whitfield,C.W.,
+            Wu,Y., Zdobnov,E.M., Zhang,L., Zhu,D. and Gibbs,R.A.
+  CONSRTM   HGSC production teams; Honey Bee Genome Sequencing Consortium
+  TITLE     Finding the missing honey bee genes: lessons learned from a genome
+            upgrade
+  JOURNAL   BMC Genomics 15, 86 (2014)
+   PUBMED   24479613
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 1830)
+  CONSRTM   Honeybee Genome Sequencing Consortium
+  TITLE     Insights into social insects from the genome of the honeybee Apis
+            mellifera
+  JOURNAL   Nature 443 (7114), 931-949 (2006)
+   PUBMED   17073008
+  REMARK    Erratum:[Nature. 2006 Nov 23;444(7118):512]
+REFERENCE   6  (bases 1 to 1830)
+  AUTHORS   Albertova,V., Su,S., Brockmann,A., Gadau,J. and Albert,S.
+  TITLE     Organization and potential function of the mrjp3 locus in four
+            honeybee species
+  JOURNAL   J Agric Food Chem 53 (20), 8075-8081 (2005)
+   PUBMED   16190673
+REFERENCE   7  (bases 1 to 1830)
+  AUTHORS   Malecova,B., Ramser,J., O'Brien,J.K., Janitz,M., Judova,J.,
+            Lehrach,H. and Simuth,J.
+  TITLE     Honeybee (Apis mellifera L.) mrjp gene family: computational
+            analysis of putative promoters and genomic structure of mrjp1, the
+            gene coding for the most abundant protein of larval food
+  JOURNAL   Gene 303, 165-175 (2003)
+   PUBMED   12559578
+REFERENCE   8  (bases 1 to 1830)
+  AUTHORS   Albert,S., Klaudiny,J. and Simuth,J.
+  TITLE     Molecular characterization of MRJP3, highly polymorphic protein of
+            honeybee (Apis mellifera) royal jelly
+  JOURNAL   Insect Biochem Mol Biol 29 (5), 427-434 (1999)
+   PUBMED   10380654
+REFERENCE   9  (bases 1 to 1830)
+  AUTHORS   Schmitzova,J., Klaudiny,J., Albert,S., Schroder,W.,
+            Schreckengost,W., Hanes,J., Judova,J. and Simuth,J.
+  TITLE     A family of major royal jelly proteins of the honeybee Apis
+            mellifera L
+  JOURNAL   Cell Mol Life Sci 54 (9), 1020-1030 (1998)
+   PUBMED   9791542
+REFERENCE   10 (bases 1 to 1830)
+  AUTHORS   Ohashi,K., Natori,S. and Kubo,T.
+  TITLE     Change in the mode of gene expression of the hypopharyngeal gland
+            cells with an age-dependent role change of the worker honeybee Apis
+            mellifera L
+  JOURNAL   Eur J Biochem 249 (3), 797-802 (1997)
+   PUBMED   9395329
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from Z26318.1.
+            
+            On Feb 5, 2005 this sequence version replaced XM_391893.1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: Z26318.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN02728800, SAMN06928121
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1830
+                     /organism="Apis mellifera"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7460"
+                     /map="LG11"
+                     /linkage_group="LG11"
+     gene            1..1830
+                     /gene="Mrjp3"
+                     /note="major royal jelly protein 3"
+                     /db_xref="GeneID:406121"
+     exon            1..30
+                     /gene="Mrjp3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            31..272
+                     /gene="Mrjp3"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             35..1669
+                     /gene="Mrjp3"
+                     /note="royal jelly protein RJP57-1; MRJP-3; bee-milk
+                     protein"
+                     /codon_start=1
+                     /product="major royal jelly protein 3 precursor"
+                     /protein_id="NP_001011601.1"
+                     /db_xref="GeneID:406121"
+                     /translation="MTKWLLLVVCLGIACQDVTSAAVNHQRKSANNLAHSMKVIYEWK
+                     HIDFDFGSDERRDAAIKSGEFDHTKNYPFDVDRWRDKTFVTIERNNGVPSSLNVVTNK
+                     KGKGGPLLRPYPDWSFAKYEDCSGIVSAFKIAVDKFDRLWVLDSGLVNNNQPMCSPKL
+                     LTFDLKTSKLVKQVEIPHNIAVNATTGMGELVSLAVQAIDRTNTMVYIADEKGEGLIM
+                     YQNSDDSFHRLTSNTFDYDPRYTKLTVAGESFTVKNGIYGIALSPVTNNLYYSPLLSH
+                     GLYYVDTEQFSNPQYEENNVQYEGSQDILNTQSFGKVVSKNGVLFLGLVGNSGIACVN
+                     EHQVLQRESFDVVAQNEETLQMIVSMKIMENLPQSGRINDPEGNEYMLALSNRMQKII
+                     NNDFNFNDVNFRILGANVDDLMRNTRCGRYHNQNAGNQNADNQNADNQNANNQNADNQ
+                     NANKQNGNRQNDNRQNDNKQNGNRQNDNKQNGNRQNDNKQNGNRQNGNKQNDNKQNGN
+                     RQNDNKRNGNRQNDNQNNQNDNNRNDNQVHHSSKLH"
+     sig_peptide     35..94
+                     /gene="Mrjp3"
+                     /note="/evidence=ECO:0000269|PubMed:9791542; propagated
+                     from UniProtKB/Swiss-Prot (Q17060.1)"
+     mat_peptide     95..1666
+                     /gene="Mrjp3"
+                     /product="Major royal jelly protein 3. /id=PRO_0000031045"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q17060.1)"
+     misc_feature    581..583
+                     /gene="Mrjp3"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q17060.1); glycosylation site"
+     misc_feature    1295..1666
+                     /gene="Mrjp3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q17060.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1304..1603
+                     /gene="Mrjp3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q17060.1);
+                     Region: 20 X 5 AA tandem repeats of [NKR]-Q-N-[AGD]-[DNG]"
+     exon            273..436
+                     /gene="Mrjp3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            437..649
+                     /gene="Mrjp3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            650..933
+                     /gene="Mrjp3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            934..1066
+                     /gene="Mrjp3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1067..1302
+                     /gene="Mrjp3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1303..1530
+                     /gene="Mrjp3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1531..1809
+                     /gene="Mrjp3"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 gtcaattgga aaatatctgt attatcctag aaaaatgaca aagtggttgt tgctggtggt
+       61 gtgccttggt atagcttgtc aagatgtaac aagcgcagct gtgaatcatc aaagaaaatc
+      121 tgcaaataat ttggcacatt ctatgaaagt gatctacgaa tggaaacaca ttgattttga
+      181 tttcggtagc gatgaaagaa gagatgctgc gattaaatct ggcgaatttg atcacacaaa
+      241 aaattatcct ttcgatgtgg acagatggcg tgataagaca tttgtcacca tagaaaggaa
+      301 caatggtgta ccttcttctt tgaacgtggt aactaataaa aagggcaaag gtggacctct
+      361 tctacgacca tatcctgatt ggtcgtttgc caaatacgaa gattgctctg gaattgtgag
+      421 cgctttcaaa attgcggtcg acaaatttga cagattatgg gttctggact caggtcttgt
+      481 caataataat caacctatgt gctctccaaa attgttaacc tttgatctga aaacctcaaa
+      541 attggttaag caagtcgaga taccacataa tattgccgta aacgccacca caggaatggg
+      601 agaattagtt tcactagctg ttcaagctat agatcgtacg aatactatgg tgtacatagc
+      661 agacgaaaaa ggcgaaggtt taatcatgta tcaaaactcc gacgattcct tccatcgatt
+      721 gacttccaat actttcgatt acgatcccag atataccaaa ttgacagtcg ctggagaaag
+      781 tttcacagtg aaaaatggaa tttatggaat tgcacttagt cccgtgacga acaatcttta
+      841 ttacagccct cttctttctc acggtttgta ttatgttgat acggaacaat tcagcaatcc
+      901 acaatatgaa gaaaataacg tgcaatatga aggatctcaa gatattttga acactcaatc
+      961 attcggtaaa gtagtatcga aaaatggcgt ccttttcttg ggactcgtgg gtaattcagg
+     1021 tattgcctgc gtgaatgaac atcaagtact tcagagagaa agttttgatg ttgtcgctca
+     1081 gaatgaagag acacttcaaa tgatcgttag tatgaaaatc atggaaaatc ttccacaatc
+     1141 cggcagaatt aatgatcctg aaggcaatga atatatgttg gctttgagta acagaatgca
+     1201 aaaaataata aacaatgatt ttaatttcaa cgacgtaaat ttccgaattt tgggtgcgaa
+     1261 tgtagatgac ttaatgagaa acactcgttg cggaagatat cacaatcaga atgctggcaa
+     1321 tcagaatgct gacaatcaga atgctgacaa tcagaatgct aacaatcaga atgctgataa
+     1381 tcagaatgct aacaaacaaa atggtaatag acaaaatgat aacagacaga atgataacaa
+     1441 gcaaaatggt aacagacaga atgataacaa gcaaaatggt aacagacaga atgataacaa
+     1501 gcaaaatggt aacagacaaa atggtaacaa acagaatgat aacaagcaaa atggtaacag
+     1561 acagaatgat aacaagagga atggtaacag gcaaaatgat aatcaaaata atcagaatga
+     1621 taataatcga aatgataatc aagttcatca ttcttcaaaa ttacattaaa tcaatcaatt
+     1681 atcaattaaa atcaattaat taagatgtaa atcaaattat tttttaaaat attttttcga
+     1741 tgtaaacaaa attttgtaaa atctttcatt atattataaa taaataaaat aaatatcgtt
+     1801 ttcgcataaa aaaaaaaaaa aaaaaaaaaa
+//
+
+LOCUS       NM_001011579            1430 bp    mRNA    linear   INV 04-DEC-2024
+DEFINITION  Apis mellifera major royal jelly protein 1 (Mrjp1), mRNA.
+ACCESSION   NM_001011579 XM_393380
+VERSION     NM_001011579.1
+KEYWORDS    RefSeq.
+SOURCE      Apis mellifera (honey bee)
+  ORGANISM  Apis mellifera
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Hymenoptera; Apocrita;
+            Aculeata; Apoidea; Anthophila; Apidae; Apis.
+REFERENCE   1  (bases 1 to 1430)
+  AUTHORS   Dobritzsch,D., Aumer,D., Fuszard,M., Erler,S. and Buttstedt,A.
+  TITLE     The rise and fall of major royal jelly proteins during a honeybee
+            (Apis mellifera) workers' life
+  JOURNAL   Ecol Evol 9 (15), 8771-8782 (2019)
+   PUBMED   31410279
+  REMARK    GeneRIF: Most abundant protein in the hypopharyngeal gland and
+            fifth most abundant protein in the brain of 8-days old nurse honey
+            bees(based on quantitative mass spectrometry).
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1430)
+  AUTHORS   Buttstedt,A., Muresan,C.I., Lilie,H., Hause,G., Ihling,C.H.,
+            Schulze,S.H., Pietzsch,M. and Moritz,R.F.A.
+  TITLE     How Honeybees Defy Gravity with Royal Jelly to Raise Queens
+  JOURNAL   Curr Biol 28 (7), 1095-1100 (2018)
+   PUBMED   29551410
+  REMARK    GeneRIF: Polymerizes in complex with apisimin (Gene ID: 406093) at
+            acidic pH into long fibrous structures that build the basis for the
+            high viscosity of honey bee royal jelly to hold queen larvae on the
+            royal jelly surface.
+REFERENCE   3  (bases 1 to 1430)
+  AUTHORS   Mandacaru,S.C., do Vale,L.H., Vahidi,S., Xiao,Y., Skinner,O.S.,
+            Ricart,C.A., Kelleher,N.L., de Sousa,M.V. and Konermann,L.
+  TITLE     Characterizing the Structure and Oligomerization of Major Royal
+            Jelly Protein 1 (MRJP1) by Mass Spectrometry and Complementary
+            Biophysical Tools
+  JOURNAL   Biochemistry 56 (11), 1645-1655 (2017)
+   PUBMED   28252287
+  REMARK    GeneRIF: Mass spectrometry data demonstrate that the native
+            complexes of royal jelly predominantly exist in a four MRJP1 and
+            four apisimin molecules stoichiometry.
+REFERENCE   4  (bases 1 to 1430)
+  AUTHORS   Elsik,C.G., Worley,K.C., Bennett,A.K., Beye,M., Camara,F.,
+            Childers,C.P., de Graaf,D.C., Debyser,G., Deng,J., Devreese,B.,
+            Elhaik,E., Evans,J.D., Foster,L.J., Graur,D., Guigo,R., Hoff,K.J.,
+            Holder,M.E., Hudson,M.E., Hunt,G.J., Jiang,H., Joshi,V.,
+            Khetani,R.S., Kosarev,P., Kovar,C.L., Ma,J., Maleszka,R.,
+            Moritz,R.F., Munoz-Torres,M.C., Murphy,T.D., Muzny,D.M.,
+            Newsham,I.F., Reese,J.T., Robertson,H.M., Robinson,G.E.,
+            Rueppell,O., Solovyev,V., Stanke,M., Stolle,E., Tsuruda,J.M.,
+            Vaerenbergh,M.V., Waterhouse,R.M., Weaver,D.B., Whitfield,C.W.,
+            Wu,Y., Zdobnov,E.M., Zhang,L., Zhu,D. and Gibbs,R.A.
+  CONSRTM   HGSC production teams; Honey Bee Genome Sequencing Consortium
+  TITLE     Finding the missing honey bee genes: lessons learned from a genome
+            upgrade
+  JOURNAL   BMC Genomics 15, 86 (2014)
+   PUBMED   24479613
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 1430)
+  AUTHORS   Yamaguchi,K., He,S., Li,Z., Murata,K., Hitomi,N., Mozumi,M.,
+            Ariga,R. and Enomoto,T.
+  TITLE     Quantification of major royal jelly protein 1 in fresh royal jelly
+            by indirect enzyme-linked immunosorbent assay
+  JOURNAL   Biosci Biotechnol Biochem 77 (6), 1310-1312 (2013)
+   PUBMED   23748766
+  REMARK    GeneRIF: These results suggest that MRJP1 exists mainly as apisin
+            in royal jelly.
+REFERENCE   6  (bases 1 to 1430)
+  AUTHORS   Fontana,R., Mendes,M.A., de Souza,B.M., Konno,K., Cesar,L.M.,
+            Malaspina,O. and Palma,M.S.
+  TITLE     Jelleines: a family of antimicrobial peptides from the Royal Jelly
+            of honeybees (Apis mellifera)
+  JOURNAL   Peptides 25 (6), 919-928 (2004)
+   PUBMED   15203237
+REFERENCE   7  (bases 1 to 1430)
+  AUTHORS   Malecova,B., Ramser,J., O'Brien,J.K., Janitz,M., Judova,J.,
+            Lehrach,H. and Simuth,J.
+  TITLE     Honeybee (Apis mellifera L.) mrjp gene family: computational
+            analysis of putative promoters and genomic structure of mrjp1, the
+            gene coding for the most abundant protein of larval food
+  JOURNAL   Gene 303, 165-175 (2003)
+   PUBMED   12559578
+REFERENCE   8  (bases 1 to 1430)
+  AUTHORS   Schmitzova,J., Klaudiny,J., Albert,S., Schroder,W.,
+            Schreckengost,W., Hanes,J., Judova,J. and Simuth,J.
+  TITLE     A family of major royal jelly proteins of the honeybee Apis
+            mellifera L
+  JOURNAL   Cell Mol Life Sci 54 (9), 1020-1030 (1998)
+   PUBMED   9791542
+REFERENCE   9  (bases 1 to 1430)
+  AUTHORS   Kucharski,R., Maleszka,R., Hayward,D.C. and Ball,E.E.
+  TITLE     A royal jelly protein is expressed in a subset of Kenyon cells in
+            the mushroom bodies of the honey bee brain
+  JOURNAL   Naturwissenschaften 85 (7), 343-346 (1998)
+   PUBMED   9722965
+REFERENCE   10 (bases 1 to 1430)
+  AUTHORS   Ohashi,K., Natori,S. and Kubo,T.
+  TITLE     Change in the mode of gene expression of the hypopharyngeal gland
+            cells with an age-dependent role change of the worker honeybee Apis
+            mellifera L
+  JOURNAL   Eur J Biochem 249 (3), 797-802 (1997)
+   PUBMED   9395329
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AF000633.1.
+            
+            On Feb 5, 2005 this sequence version replaced XM_393380.1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF000633.1, D79207.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN00113341, SAMN00120364
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1430
+                     /organism="Apis mellifera"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7460"
+                     /map="LG11"
+                     /linkage_group="LG11"
+     gene            1..1430
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /note="major royal jelly protein 1"
+                     /db_xref="GeneID:406090"
+     exon            1..41
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            42..265
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             46..1344
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /note="milk protein; royalactin; 56-kDa protein 4; MRJP-1;
+                     bee-milk protein; apalbumin 1; apisin subunit MRJP1"
+                     /codon_start=1
+                     /product="major royal jelly protein 1 precursor"
+                     /protein_id="NP_001011579.1"
+                     /db_xref="GeneID:406090"
+                     /translation="MTRLFMLVCLGIVCQGTTGNILRGESLNKSLPILHEWKFFDYDF
+                     GSDERRQDAILSGEYDYKNNYPSDIDQWHDKIFVTMLRYNGVPSSLNVISKKVGDGGP
+                     LLQPYPDWSFAKYDDCSGIVSASKLAIDKCDRLWVLDSGLVNNTQPMCSPKLLTFDLT
+                     TSQLLKQVEIPHDVAVNATTGKGRLSSLAVQSLDCNTNSDTMVYIADEKGEGLIVYHN
+                     SDDSFHRLTSNTFDYDPKFTKMTIDGESYTAQDGISGMALSPMTNNLYYSPVASTSLY
+                     YVNTEQFRTSDYQQNDIHYEGVQNILDTQSSAKVVSKSGVLFFGLVGDSALGCWNEHR
+                     TLERHNIRTVAQSDETLQMIASMKIKEALPHVPIFDRYINREYILVLSNKMQKMVNND
+                     FNFDDVNFRIMNANVNELILNTRCENPDNDRTPFKISIHL"
+     sig_peptide     46..102
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     mat_peptide     103..1341
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /product="Major royal jelly protein 1.
+                     /evidence=ECO:0000305|PubMed:9395329,
+                     ECO:0000305|PubMed:9791542. /id=PRO_0000031043"
+                     /note="propagated from UniProtKB/Swiss-Prot (O18330.1)"
+     misc_feature    127..129
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (O18330.1); glycosylation site"
+     misc_feature    475..477
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (O18330.1); glycosylation site"
+     misc_feature    574..576
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (O18330.1); glycosylation site"
+     misc_feature    1336..1338
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /note="Histidine amide, atypical.
+                     /evidence=ECO:0000269|PubMed:15203237; propagated from
+                     UniProtKB/Swiss-Prot (O18330.1); amidation site"
+     misc_feature    1339..1341
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /note="Leucine amide, atypical.
+                     /evidence=ECO:0000269|PubMed:15203237; propagated from
+                     UniProtKB/Swiss-Prot (O18330.1); amidation site"
+     exon            266..429
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            430..651
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            652..935
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            936..1068
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1069..1430
+                     /gene="Mrjp1"
+                     /gene_synonym="p56kP-4"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 ttcacgtaca atattccatt gcttcgttac tcgcagctta gaaaaatgac aagattgttt
+       61 atgctggtat gccttggcat agtttgtcaa ggtacgacag gcaacattct tcgaggagag
+      121 tctttaaaca aatcattacc catccttcac gaatggaaat tctttgatta tgatttcggt
+      181 agcgatgaaa gaagacaaga tgcaattcta tctggcgaat acgactacaa gaataattat
+      241 ccatccgaca ttgaccaatg gcatgataag atttttgtca ccatgctgag atacaatggc
+      301 gtaccttcct ctttgaacgt gatatctaaa aaggtcggtg atggtggtcc tcttctacaa
+      361 ccttatcccg attggtcgtt tgctaaatat gacgattgct ctggaatcgt gagcgcctca
+      421 aaacttgcga tcgacaaatg cgacagattg tgggttctgg actcaggtct tgtcaataat
+      481 actcaaccca tgtgttctcc aaaactgctc acctttgatc tgactacctc gcaattgctc
+      541 aagcaagttg aaataccaca tgatgttgcc gtaaatgcca ctacaggaaa gggaagatta
+      601 tcatctctag ctgttcaatc tttagattgc aatacaaata gcgatactat ggtgtacata
+      661 gcagacgaga aaggtgaagg tttaatcgtg tatcataatt ctgatgattc cttccatcga
+      721 ttgacttcca acactttcga ttacgatcct aaatttacca aaatgacgat cgatggagaa
+      781 agttacacag cccaagatgg aatttctgga atggctctta gtcccatgac taacaatctc
+      841 tattacagtc ctgtagcttc caccagtttg tattatgtta acacggaaca attcagaaca
+      901 tccgattatc aacagaatga catacattac gaaggagtcc aaaatatttt ggatacccaa
+      961 tcgtccgcta aagtagtatc aaagagtggc gttctcttct tcggattggt gggcgattca
+     1021 gctcttggct gctggaacga acatcgaaca cttgaaagac acaatatccg taccgtcgct
+     1081 caaagtgatg agactcttca aatgatcgct agcatgaaga ttaaggaagc tctnccacac
+     1141 gtgcctatat tcgataggta tataaaccgt gaatacatat tggttttaag taacaaaatg
+     1201 caaaaaatgg tgaataatga cttcaacttc gacgatgtta acttcagaat tatgaacgcg
+     1261 aatgtaaacg aattgatatt gaacactcgt tgcgaaaatc ccgataatga tcgaacacct
+     1321 ttcaaaattt caatccattt gtaaaatctg agttttttgt tatatattaa atatttctcg
+     1381 aaatttcttt ccattatgaa tgtataaaat aaatattgtt ttcgcataat
+//
+
+LOCUS       NM_001011608            1873 bp    mRNA    linear   INV 03-APR-2024
+DEFINITION  Apis mellifera alpha-glucosidase (Hbg3), mRNA.
+ACCESSION   NM_001011608 XM_392790
+VERSION     NM_001011608.1
+KEYWORDS    RefSeq.
+SOURCE      Apis mellifera (honey bee)
+  ORGANISM  Apis mellifera
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Hymenoptera; Apocrita;
+            Aculeata; Apoidea; Anthophila; Apidae; Apis.
+REFERENCE   1  (bases 1 to 1873)
+  AUTHORS   Na Ayutthaya,P.P., Chanchao,C. and Chunsrivirot,S.
+  TITLE     Insight into the substrate specificity change caused by the Y227H
+            mutation of alpha-glucosidase III from the European honeybee (Apis
+            mellifera) through molecular dynamics simulations
+  JOURNAL   PLoS One 13 (6), e0198484 (2018)
+   PUBMED   29864156
+  REMARK    GeneRIF: Y227H of alpha-glucosidases (HBGase III) from Apis
+            mellifera may be a key residue for preference binding of
+            sucrose/maltose in the active site.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1873)
+  AUTHORS   Elsik,C.G., Worley,K.C., Bennett,A.K., Beye,M., Camara,F.,
+            Childers,C.P., de Graaf,D.C., Debyser,G., Deng,J., Devreese,B.,
+            Elhaik,E., Evans,J.D., Foster,L.J., Graur,D., Guigo,R., Hoff,K.J.,
+            Holder,M.E., Hudson,M.E., Hunt,G.J., Jiang,H., Joshi,V.,
+            Khetani,R.S., Kosarev,P., Kovar,C.L., Ma,J., Maleszka,R.,
+            Moritz,R.F., Munoz-Torres,M.C., Murphy,T.D., Muzny,D.M.,
+            Newsham,I.F., Reese,J.T., Robertson,H.M., Robinson,G.E.,
+            Rueppell,O., Solovyev,V., Stanke,M., Stolle,E., Tsuruda,J.M.,
+            Vaerenbergh,M.V., Waterhouse,R.M., Weaver,D.B., Whitfield,C.W.,
+            Wu,Y., Zdobnov,E.M., Zhang,L., Zhu,D. and Gibbs,R.A.
+  CONSRTM   HGSC production teams; Honey Bee Genome Sequencing Consortium
+  TITLE     Finding the missing honey bee genes: lessons learned from a genome
+            upgrade
+  JOURNAL   BMC Genomics 15, 86 (2014)
+   PUBMED   24479613
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 1873)
+  CONSRTM   Honeybee Genome Sequencing Consortium
+  TITLE     Insights into social insects from the genome of the honeybee Apis
+            mellifera
+  JOURNAL   Nature 443 (7114), 931-949 (2006)
+   PUBMED   17073008
+  REMARK    Erratum:[Nature. 2006 Nov 23;444(7118):512]
+REFERENCE   4  (bases 1 to 1873)
+  AUTHORS   Ohashi,K., Sawata,M., Takeuchi,H., Natori,S. and Kubo,T.
+  TITLE     Molecular cloning of cDNA and analysis of expression of the gene
+            for alpha-glucosidase from the hypopharyngeal gland of the honeybee
+            Apis mellifera L
+  JOURNAL   Biochem Biophys Res Commun 221 (2), 380-385 (1996)
+   PUBMED   8619864
+REFERENCE   5  (bases 1 to 1873)
+  AUTHORS   Kubo,T., Sasaki,M., Nakamura,J., Sasagawa,H., Ohashi,K.,
+            Takeuchi,H. and Natori,S.
+  TITLE     Change in the expression of hypopharyngeal-gland proteins of the
+            worker honeybees (Apis mellifera L.) with age and/or role
+  JOURNAL   J Biochem 119 (2), 291-295 (1996)
+   PUBMED   8882720
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from D79208.1.
+            
+            On Feb 5, 2005 this sequence version replaced XM_392790.1.
+            
+            ##Evidence-Data-START##
+            CDS exon combination :: D79208.1, HP499841.1 [ECO:0000331]
+            RNAseq introns       :: single sample supports all introns
+                                    SAMN00008880, SAMN00113341 [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1873
+                     /organism="Apis mellifera"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7460"
+                     /map="LG6"
+                     /linkage_group="LG6"
+     gene            1..1873
+                     /gene="Hbg3"
+                     /note="alpha-glucosidase"
+                     /db_xref="GeneID:406131"
+     misc_feature    21..23
+                     /gene="Hbg3"
+                     /note="upstream in-frame stop codon"
+     CDS             48..1751
+                     /gene="Hbg3"
+                     /EC_number="3.2.1.20"
+                     /note="maltase"
+                     /codon_start=1
+                     /product="alpha-glucosidase precursor"
+                     /protein_id="NP_001011608.1"
+                     /db_xref="GeneID:406131"
+                     /translation="MKAVIVFCLMALSIVDAAWKPLPENLKEDLIVYQVYPRSFKDSN
+                     GDGIGDIEGIKEKLDHFLEMGVDMFWLSPIYPSPMVDFGYDISNYTDVHPIFGTISDL
+                     DNLVSAAHEKGLKIILDFVPNHTSDQHEWFQLSLKNIEPYNNYYIWHPGKIVNGKRVP
+                     PTNWVGVFGGSAWSWREERQAYYLHQFAPEQPDLNYYNPVVLDDMQNVLRFWLRRGFD
+                     GFRVDALPYICEDMRFLDEPLSGETNDPNKTEYTLKIYTHDIPETYNVVRKFRDVLDE
+                     FPQPKHMLIEAYTNLSMTMKYYDYGADFPFNFAFIKNVSRDSNSSDFKKLVDNWMTYM
+                     PPSGIPNWVPGNHDQLRLVSRFGEEKARMITTMSLLLPGVAVNYYGDEIGMSDTYISW
+                     EDTQDPQGCGAGKENYQTMSRDPARTPFQWDDSVSAGFSSSSNTWLRVNENYKTVNLA
+                     AEKKDKNSFFNMFKKFASLKKSPYFKEANLNTRMLNDNVFAFSRETEDNGSLYAILNF
+                     SNEEQIVDLKAFNNVPKKLNMFYNNFNSDIKSISNNEQVKVSALGFFILISQDAKFGN
+                     F"
+     sig_peptide     48..98
+                     /gene="Hbg3"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     mat_peptide     99..1748
+                     /gene="Hbg3"
+                     /product="Alpha-glucosidase. /id=PRO_0000001452"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q17058.1)"
+     misc_feature    309..311
+                     /gene="Hbg3"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q17058.1); glycosylation site"
+     misc_feature    414..416
+                     /gene="Hbg3"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q17058.1); glycosylation site"
+     misc_feature    786..788
+                     /gene="Hbg3"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q17058.1); glycosylation site"
+     misc_feature    915..917
+                     /gene="Hbg3"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q17058.1); glycosylation site"
+     misc_feature    984..986
+                     /gene="Hbg3"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q17058.1); glycosylation site"
+     misc_feature    1002..1004
+                     /gene="Hbg3"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q17058.1); glycosylation site"
+     misc_feature    1089..1091
+                     /gene="Hbg3"
+                     /note="Transition state stabilizer. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (Q17058.1); other
+                     site"
+     misc_feature    1542..1544
+                     /gene="Hbg3"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q17058.1); glycosylation site"
+     misc_feature    1566..1568
+                     /gene="Hbg3"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q17058.1); glycosylation site"
+ORIGIN      
+        1 tgatattaac gtactactat taatatattc gacttctagt tggtagcatg aaggcagtaa
+       61 tcgtattttg ccttatggca ttgtccattg tggacgcagc atggaagccg ctccctgaaa
+      121 acttgaagga ggacttgatc gtgtatcagg tctacccgag aagcttcaag gatagcaatg
+      181 gagatggtat tggtgatatc gaaggtatta aagaaaaatt ggatcatttt ctcgaaatgg
+      241 gggtcgacat gttttggtta tcccctattt atccaagccc tatggtcgat tttggttacg
+      301 acatttcgaa ttacaccgac gttcatccca tatttggcac catatcagac ttagataatc
+      361 tagtcagtgc tgcacatgag aaaggattga agataatctt ggatttcgtc ccgaatcata
+      421 catctgatca acacgaatgg ttccagttga gtttgaaaaa cattgaacct tataacaact
+      481 attacatttg gcatccagga aaaattgtaa atggcaaacg tgttccacca actaattggg
+      541 taggcgtgtt tggtggatca gcttggtcgt ggcgggaaga acgacaggca tattatctgc
+      601 atcaatttgc accagaacaa ccagatctaa attactataa tccagttgta ctggatgata
+      661 tgcaaaatgt tctcagattc tggctgagaa ggggatttga tggtttcaga gtagatgctc
+      721 tgccttacat ttgcgaagac atgcgattct tagacgaacc tctatcaggt gaaacaaatg
+      781 atcccaataa aaccgagtac actctcaaga tctacactca cgatatccca gaaacctaca
+      841 atgtagttcg caaatttaga gatgtgttag acgaattccc gcaaccaaaa cacatgctta
+      901 tcgaggcata cacgaattta tcgatgacga tgaaatatta cgattacgga gcagattttc
+      961 ccttcaattt tgcattcatc aagaatgttt ctagggattc aaattcatca gacttcaaaa
+     1021 aattggtcga taattggatg acgtacatgc caccaagtgg tattcctaac tgggtgcccg
+     1081 gaaatcacga tcaattgaga ttggtgtcga gatttggaga ggagaaggcc cgtatgatca
+     1141 ccacgatgtc gcttttgctg ccaggtgttg ccgtgaatta ctacggtgat gaaattggta
+     1201 tgtcggatac ttatatctcg tgggaggata cgcaggatcc gcagggatgc ggcgccggta
+     1261 aagaaaacta tcaaacgatg tcgagagatc ccgcgagaac gccattccaa tgggacgact
+     1321 cagtttctgc tggattttcc tcaagctcta atacctggct tcgtgtcaac gaaaattaca
+     1381 agactgtcaa tctagctgct gaaaagaagg acaagaactc gttcttcaat atgttcaaga
+     1441 aatttgcgtc gctgaaaaaa tcgccatact ttaaagaggc caatttaaat acgaggatgc
+     1501 tgaacgacaa tgttttcgca ttctctaggg aaaccgaaga taatggatct ctttacgcaa
+     1561 tattgaactt ctcgaacgag gaacaaatcg tggatttgaa agcgttcaat aacgtgccga
+     1621 aaaaattgaa tatgttttac aacaatttta actctgatat aaagtccatc tccaacaatg
+     1681 aacaagtaaa agtttctgct ttaggatttt tcatcttaat ttctcaagat gctaaatttg
+     1741 gaaactttta atttcttcct gaatatgtct attctttgaa gcggcgaaag gaaacatata
+     1801 tcgttaaaat ctctctatat tattatatat atatatatgt attagctaat aaattttaaa
+     1861 tattttgaaa cgt
+//
+
