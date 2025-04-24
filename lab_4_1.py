@@ -1,3 +1,4 @@
+# ex 1
 from Bio import SeqIO
 
 
