@@ -1,4 +1,4 @@
-#ex 1
+# ex 1
 import pandas as pd  # Работа с табличными данными
 import seaborn as sns  # Расширенные возможности визуализации
 import matplotlib.pyplot as plt  # Для задания размеров фигуры и отображения графиков
@@ -51,6 +51,3 @@ plotter.classify_column("population", bins=3, labels=["Малые", "Средн�
 
 # Строим диаграмму рассеяния: по оси X — 'cancer', по оси Y — 'population'
 plotter.plot("cancer", "population", title="Cancer vs Population")
-
-
-
